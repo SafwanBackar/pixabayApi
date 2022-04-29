@@ -16,12 +16,6 @@ img {
     margin: 10px;
 }
 
-#imageClick {
-    transition: .5s ease-in-out;
-    transform: scale(1.2);
-}
-
-
 .container {
     text-align: center;
 }
